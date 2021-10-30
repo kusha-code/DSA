@@ -52,7 +52,7 @@ public class BalancedBrackets {
 			}
 		}
 
-		// Check Empty Stack
+		
 		return (stack.isEmpty());
 	}
 
